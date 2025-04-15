@@ -32,7 +32,7 @@
 
     </style>
     <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
-    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
     <script>
         async function fetchXml(url, selector) {
@@ -60,35 +60,34 @@
             });
         }
 
-
-
         function calculateProjection(svg) {
             const node = svg.node();
             const scale = Math.max(node.clientHeight, node.clientWidth)
-            const projection = d3.geo.albers()
+            const projection = d3.geoAlbers()
                 .scale(scale)
                 .translate([node.clientWidth / 2, node.clientHeight / 2]);
             return projection;
         }
 
-        // D3 map
-        function d3InitializeStates(mapData) {
+        async function d3InitializeStates(mapData) {
             const svg = d3.select("#map");
 
             projection = calculateProjection(svg);
         
-            const path = d3.geo.path()
+            const path = d3.geoPath()
                 .projection(projection);
 
-            return new Promise((resolve, reject) => {                
-                d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json', function (mapData) {        
-                    svg.append('path')
-                    .attr('class', 'states')
-                    .datum(topojson.feature(mapData, mapData.objects.states))
-                    .attr('d', path);
-                    resolve();
-                });
-            });
+            mapData = await d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json');
+            svg.append('path')
+                .attr('class', 'states')
+                .datum(topojson.feature(mapData, mapData.objects.states))
+                .attr('d', path);
+
+            return mapData;
+        }
+
+        function d3Coords(item) {
+            return [item.long, item.lat]; // It's backwards from how we think of it, but it's x, y
         }
 
         function entriesToD3(entries, cssClass) {
@@ -96,7 +95,7 @@
             projection = calculateProjection(svg);
 
             for (entry of entries) {
-                const coords = projection([entry.long, entry.lat]);
+                const coords = projection(d3Coords(entry));
                 svg.append('circle')
                     .attr('cx', coords[0])
                     .attr('cy', coords[1])
@@ -106,10 +105,38 @@
             }
         }
 
+        function isDistrict(unit) {
+            // I wish there was a better way
+            return unit.style == "#msn_blu-circle";
+        }
+
+        function nearestAmong(target, list) {
+            let closestDistance = Infinity;
+            let closestItem = null;
+            list.forEach((item) => {
+                const distance = d3.geoDistance(d3Coords(target), d3Coords(item));
+                if (distance < closestDistance) {
+                    closestDistance = distance;
+                    closestItem = item;
+                }
+            })
+            return { distanceToClosestItem: closestDistance, closestItem: closestItem };
+        }
+
         async function renderAll() {
             await d3InitializeStates()
-            temples = await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
-            units = await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
+            const temples = await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
+            const units = await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
+            
+            units;
+
+            // Total bigO(temples * units)
+            units.forEach((unit) => {
+                if (!isDistrict(unit)) { // skip districts?
+                    nearestData = nearestAmong(unit, temples); // bigO(temples)
+                    Object.assign(unit, nearestData);
+                }
+            });
         }
     </script>
   </head>
