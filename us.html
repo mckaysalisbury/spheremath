@@ -5,89 +5,110 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>US Temple Locations</title>
     <style>
-      h1 {
-        text-align: center;
-      }
+        h1 {
+            text-align: center;
+        }
 
-      /* d3 */
-      path {
-        stroke: #fff;
-        fill: #3c81f4;
-        stroke-width: 0.5;
-      }
+        /* d3 */
+        path {
+            stroke: #fff;
+            fill: #3c81f4;
+            stroke-width: 0.5;
+        }
 
-      circle {
-        fill: #1c3b6f;
-        stroke: white;
-        stroke-width: 0.5px;
-      }
+        .temple {
+            fill: #1c3b6f;
+            stroke: white;
+            stroke-width: 0.5px;
+            r: 5px;
+        }
+
+        .stake {
+            fill: #c31b6f;
+            stroke: white;
+            stroke-width: 0.2px;
+            r: 2px;
+        }
+
     </style>
     <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
     <script>
-        async function fetchXml(url, xpath) {
+        async function fetchXml(url, selector) {
             const response = await fetch(url)
             const text = await response.text();
 
-            doc = new DOMParser().parseFromString(text, 'application/xml');
-            return doc.evaluate(xpath)
+            doc = new DOMParser().parseFromString(text, 'text/xml');
+
+            return doc.querySelectorAll(selector)
         }
 
-        fetchXml('data/ChurchofJesusChristTemples.kml', 'Placemark').then((doc) => {
-            alert(doc);
-        });
+        function placemarkToData(placemark) {
+            const name = placemark.querySelector("name").textContent;
+            const coordinates = placemark.querySelector("coordinates").textContent;
+            const [long, lat, altitude] = coordinates.split(',').map(parseFloat);
+            return { name: name, lat: lat, long: long }
+        }
 
-        const entries = [
-            { name: 'Orem, Utah', lat: 40.31, long: -111.71 },
-            { name: 'Culver City, California (Los Angeles suburb)', lat: 34.02, long: -118.39 },
-            { name: 'Los Angeles, California', lat: 34.03, long: -118.45 },
-            { name: 'Santa Monica, California (Los Angeles suburb)', lat: 34.01, long: -118.49 },
-            { name: 'Vienna, Virginia (Washington DC suburb)', lat: 38.90, long: -77.26 },
-            { name: 'Lindon, Utah', lat: 40.34, long: -111.72 },
-            { name: 'Orem, Utah', lat: 40.28, long: -111.68 },
-            { name: 'Portland, Oregon', lat: 45.50, long: -122.67 },
-            { name: 'Brigham Young University, Provo, Utah', lat: 40.25, long: -111.65 },
-            { name: 'Utah Valley University, Orem, Utah', lat: 40.28, long: -111.71 },
-            { name: 'Houston, Texas', lat: 29.76, long: -95.37 },
-            { name: 'Victoria, Texas', lat: 28.80, long: -97.00 },
-            { name: 'Galveston, Texas', lat: 29.30, long: -94.79 },
-            { name: 'Orem, Utah', lat: 40.29, long: -111.71 },
-            { name: 'Twin Falls, Idaho', lat: 42.55, long: -114.47 },
-            { name: 'West Jordan, Utah (Salt Lake City suburb)', lat: 40.60, long: -111.93 },
-        ]
-        
-    
+        function fetchKmlToD3(url, cssClass) {
+            return fetchXml(url, 'Placemark').then((nodes) => {
+                const entries = Array.from(nodes).map(placemarkToData);
+                entriesToD3(entries, cssClass);
+            });
+        }
 
-        // D3 map
-        function mapRender(mapData) {
-            var svg = d3.select("#map");
-            var node = svg.node();
-            var scale = Math.max(node.clientHeight, node.clientWidth)
-            var projection = d3.geo.albers()
+
+
+        function calculateProjection(svg) {
+            const node = svg.node();
+            const scale = Math.max(node.clientHeight, node.clientWidth)
+            const projection = d3.geo.albers()
                 .scale(scale)
                 .translate([node.clientWidth / 2, node.clientHeight / 2]);
+            return projection;
+        }
+
+        // D3 map
+        function d3InitializeStates(mapData) {
+            const svg = d3.select("#map");
+
+            projection = calculateProjection(svg);
         
-            var path = d3.geo.path()
-            .projection(projection);
-        
-            svg.append('path')
-                .attr('class', 'states')
-                .datum(topojson.feature(mapData, mapData.objects.states))
-                .attr('d', path);
+            const path = d3.geo.path()
+                .projection(projection);
+
+            return new Promise((resolve, reject) => {                
+                d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json', function (mapData) {        
+                    svg.append('path')
+                    .attr('class', 'states')
+                    .datum(topojson.feature(mapData, mapData.objects.states))
+                    .attr('d', path);
+                    resolve();
+                });
+            });
+        }
+
+        function entriesToD3(entries, cssClass) {
+            const svg = d3.select("#map");
+            projection = calculateProjection(svg);
 
             for (entry of entries) {
-            var coords = projection([entry.long, entry.lat]);
-            svg.append('circle')
-                .attr('cx', coords[0])
-                .attr('cy', coords[1])
-                .attr('r', 4)
+                const coords = projection([entry.long, entry.lat]);
+                svg.append('circle')
+                    .attr('cx', coords[0])
+                    .attr('cy', coords[1])
+                    .attr('class', cssClass)
+                    .append('title').text(entry.name)
+
             }
         }
-    
-        d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json', function (mapData) {
-            mapRender(mapData)
-        });
+
+        async function renderAll() {
+            await d3InitializeStates()
+            await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
+            await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
+        }
     </script>
   </head>
   <body>    
@@ -95,4 +116,7 @@
       <svg width="80%" height="80vh" id="map"></svg>
       <div id='main'></div>
   </body>
+  <script>
+    renderAll();
+  </script>
 </html>
