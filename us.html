@@ -47,14 +47,16 @@
         function placemarkToData(placemark) {
             const name = placemark.querySelector("name").textContent;
             const coordinates = placemark.querySelector("coordinates").textContent;
+            const style = placemark.querySelector("styleUrl").textContent;
             const [long, lat, altitude] = coordinates.split(',').map(parseFloat);
-            return { name: name, lat: lat, long: long }
+            return { name: name, lat: lat, long: long, style: style }
         }
 
         function fetchKmlToD3(url, cssClass) {
             return fetchXml(url, 'Placemark').then((nodes) => {
                 const entries = Array.from(nodes).map(placemarkToData);
                 entriesToD3(entries, cssClass);
+                return entries;
             });
         }
 
@@ -106,8 +108,8 @@
 
         async function renderAll() {
             await d3InitializeStates()
-            await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
-            await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
+            temples = await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
+            units = await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
         }
     </script>
   </head>
