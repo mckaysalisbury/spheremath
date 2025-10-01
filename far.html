@@ -111,32 +111,47 @@
         }
 
         function nearestAmong(target, list) {
-            let closestDistance = Infinity;
-            let closestItem = null;
-            list.forEach((item) => {
-                const distance = d3.geoDistance(d3Coords(target), d3Coords(item));
-                if (distance < closestDistance) {
-                    closestDistance = distance;
-                    closestItem = item;
-                }
-            })
-            return { distanceToClosestItem: closestDistance, closestItem: closestItem };
+            return list.map(i => {
+                const item = Object.assign({}, i); // clone it so we don't mess up the original
+                item.distanceToTarget = d3.geoDistance(d3Coords(target), d3Coords(item)) * 3958.8; // miles
+                return item;
+            }).sort((a, b) => a.distanceToTarget - b.distanceToTarget);
         }
 
         async function renderAll() {
             await d3InitializeStates()
             const temples = await fetchKmlToD3('data/ChurchofJesusChristTemples.kml', 'temple');
+            // console.log('Temples', temples);
             const units = await fetchKmlToD3('data/ChurchofJesusChristUnits.kml', 'stake');
-            
-            units;
+            // console.log('Units', units);
+            const stakes = units.filter(unit => !isDistrict(unit));
+            // console.log('Stakes', stakes);
 
-            // Total bigO(temples * units)
-            units.forEach((unit) => {
-                if (!isDistrict(unit)) { // skip districts?
-                    nearestData = nearestAmong(unit, temples); // bigO(temples)
-                    Object.assign(unit, nearestData);
-                }
+            // Find nearest temples for each stake
+            stakes.forEach((stake) => {
+                const nearestTemples = nearestAmong(stake, temples); // bigO(temples)
+                stake.distanceToNearestTemple = nearestTemples[0]?.distanceToTarget ?? Infinity;
+                stake.nearestTemples = nearestTemples.slice(0, 3);
             });
+            console.log('Stakes with nearest temple data', stakes);
+            // TODO: Find all stakes by distance for each stake.
+            // TODO: Find which stakes would be closer to this stake than their nearest temple.
+            // TODO: Sum the difference in that distance for all those stakes.
+
+            const sorted = stakes.sort((a, b) => {
+                const aDist = a.distanceToNearestTemple;
+                const bDist = b.distanceToNearestTemple;
+                return bDist - aDist;
+            });
+
+            console.log('Sorted', sorted);
+            ListBoy.RenderTo(sorted.slice(0, 10).map(item => {
+                return {
+                    name: item.name,
+                    distanceToNearestTemple: item.distanceToNearestTemple.toFixed(1) + ' miles',
+                    nearestTemple: item.nearestTemples[0]?.name ?? 'N/A',
+                };
+            }), 'main');
         }
     </script>
   </head>
