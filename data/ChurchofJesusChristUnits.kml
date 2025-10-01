@@ -682,7 +682,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Accra Ghana Laterbiokorshie Stake</name>
+			<name>Accra Ghana Lartebiokorshie Stake</name>
 			<LookAt>
 				<longitude>-0.23068400</longitude>
 				<latitude>5.54689300</latitude>
@@ -1267,6 +1267,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Alto Hospicio Chile Stake</name>
+			<LookAt>
+				<longitude>-70.07462300</longitude>
+				<latitude>-20.26037700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-70.07462300,-20.26037700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Altoona Pennsylvania Stake</name>
 			<LookAt>
 				<longitude>-78.37383000</longitude>
@@ -1537,6 +1552,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Amistad Texas Stake</name>
+			<LookAt>
+				<longitude>-100.92095000</longitude>
+				<latitude>29.39679300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-100.92095000,29.39679300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Ammon Idaho East Stake</name>
 			<LookAt>
 				<longitude>-111.92759900</longitude>
@@ -1609,6 +1639,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-117.93672000,33.83693700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ananindeua Brazil Stake</name>
+			<LookAt>
+				<longitude>-48.43629100</longitude>
+				<latitude>-1.40837200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-48.43629100,-1.40837200,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1894,6 +1939,36 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-70.39228600,-23.66717400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antsirabe Madagascar Stake</name>
+			<LookAt>
+				<longitude>47.03418700</longitude>
+				<latitude>-19.86231000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>47.03418700,-19.86231000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aparri Philippines Stake</name>
+			<LookAt>
+				<longitude>121.65038980</longitude>
+				<latitude>18.35464976</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>121.65038980,18.35464976,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -3667,6 +3742,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Beaumont Alberta Stake</name>
+			<LookAt>
+				<longitude>-113.43803600</longitude>
+				<latitude>53.35210800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.43803600,53.35210800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Beaumont Texas Stake</name>
 			<LookAt>
 				<longitude>-94.18214700</longitude>
@@ -3829,21 +3919,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-48.41003700,-1.35797500,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Belém Brazil Entroncamento Stake</name>
-			<LookAt>
-				<longitude>-48.43629100</longitude>
-				<latitude>-1.40837200</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-48.43629100,-1.40837200,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -5047,6 +5122,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Bonners Ferry Idaho Stake</name>
+			<LookAt>
+				<longitude>-116.32192000</longitude>
+				<latitude>48.68031579</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-116.32192000,48.68031579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Bora Bora Tahiti Stake</name>
 			<LookAt>
 				<longitude>-151.74298500</longitude>
@@ -5407,6 +5497,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Branson Missouri Stake</name>
+			<LookAt>
+				<longitude>-93.33944200</longitude>
+				<latitude>36.68454828</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-93.33944200,36.68454828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Brasília Brazil Alvorada Stake</name>
 			<LookAt>
 				<longitude>-48.06651600</longitude>
@@ -5482,7 +5587,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Brazzaville Republic of Congo Stake</name>
+			<name>Brazzaville Republic of the Congo Stake</name>
 			<LookAt>
 				<longitude>15.28333300</longitude>
 				<latitude>-4.26666700</latitude>
@@ -6337,10 +6442,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Burley Idaho Stake</name>
+			<name>Burley Idaho Central Stake</name>
 			<LookAt>
-				<longitude>-113.78741000</longitude>
-				<latitude>42.53246550</latitude>
+				<longitude>-113.78996000</longitude>
+				<latitude>42.52691624</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -6348,7 +6453,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-113.78741000,42.53246550,0</coordinates>
+				<coordinates>-113.78996000,42.52691624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burley Idaho Stake</name>
+			<LookAt>
+				<longitude>-113.74497800</longitude>
+				<latitude>42.49192863</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.74497800,42.49192863,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -7249,6 +7369,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>120.44940000,17.20016502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cañete Perú Stake</name>
+			<LookAt>
+				<longitude>-76.39412400</longitude>
+				<latitude>-13.08921100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-76.39412400,-13.08921100,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -8212,6 +8347,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Centerton Arkansas Stake</name>
+			<LookAt>
+				<longitude>-94.29409100</longitude>
+				<latitude>36.37357200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-94.29409100,36.37357200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Centerville Utah Canyon View Stake</name>
 			<LookAt>
 				<longitude>-111.88134300</longitude>
@@ -8559,8 +8709,8 @@
 		<Placemark>
 			<name>Charleston West Virginia Stake</name>
 			<LookAt>
-				<longitude>-81.67027500</longitude>
-				<latitude>38.48194500</latitude>
+				<longitude>-81.73036400</longitude>
+				<latitude>38.34770218</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -8568,7 +8718,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-81.67027500,38.48194500,0</coordinates>
+				<coordinates>-81.73036400,38.34770218,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -8704,6 +8854,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-3.05492900,53.18855300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chesterfield Virginia Stake</name>
+			<LookAt>
+				<longitude>-77.46089000</longitude>
+				<latitude>37.44586700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.46089000,37.44586700,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -9619,6 +9784,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-81.89843600,41.44995700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cleveland Tennessee Stake</name>
+			<LookAt>
+				<longitude>-84.84409300</longitude>
+				<latitude>35.19623200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-84.84409300,35.19623200,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -10762,6 +10942,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Cotia Brazil Stake</name>
+			<LookAt>
+				<longitude>-46.88105500</longitude>
+				<latitude>-23.59921800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-46.88105500,-23.59921800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Cotonou Benin Stake</name>
 			<LookAt>
 				<longitude>2.40976800</longitude>
@@ -10909,6 +11104,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-85.48828300,38.32134400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Criciúma Brazil Stake</name>
+			<LookAt>
+				<longitude>-49.37381600</longitude>
+				<latitude>-28.67212100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-49.37381600,-28.67212100,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -11947,7 +12157,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Diata Republic of Congo Stake</name>
+			<name>Diata Republic of the Congo Stake</name>
 			<LookAt>
 				<longitude>15.23960500</longitude>
 				<latitude>-4.27060400</latitude>
@@ -13839,8 +14049,8 @@
 		<Placemark>
 			<name>Far West Missouri Stake</name>
 			<LookAt>
-				<longitude>-94.22595700</longitude>
-				<latitude>39.74136600</latitude>
+				<longitude>-94.36455350</longitude>
+				<latitude>39.35375847</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -13848,7 +14058,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-94.22595700,39.74136600,0</coordinates>
+				<coordinates>-94.36455350,39.35375847,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -14044,21 +14254,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-78.93015300,35.08238800,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Fayetteville North Carolina West Stake</name>
-			<LookAt>
-				<longitude>-79.00603300</longitude>
-				<latitude>35.08271800</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-79.00603300,35.08271800,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -15097,6 +15292,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Fruita Colorado Stake</name>
+			<LookAt>
+				<longitude>-108.72952000</longitude>
+				<latitude>39.16469731</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-108.72952000,39.16469731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Fukuoka Japan Stake</name>
 			<LookAt>
 				<longitude>130.40171600</longitude>
@@ -16057,6 +16267,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Grand River Missouri Stake</name>
+			<LookAt>
+				<longitude>-93.98274480</longitude>
+				<latitude>39.91676750</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-93.98274480,39.91676750,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Grand-Bassam Cote d'Ivoire Stake</name>
 			<LookAt>
 				<longitude>-3.74659700</longitude>
@@ -16249,21 +16474,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-77.38001900,35.57421549,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Greenville South Carolina East Stake</name>
-			<LookAt>
-				<longitude>-82.28010100</longitude>
-				<latitude>34.86573700</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-82.28010100,34.86573700,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -18849,8 +19059,8 @@
 		<Placemark>
 			<name>Hurricane Utah West Stake</name>
 			<LookAt>
-				<longitude>-113.36638500</longitude>
-				<latitude>37.17541900</latitude>
+				<longitude>-113.38609500</longitude>
+				<latitude>37.13311462</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -18858,7 +19068,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-113.36638500,37.17541900,0</coordinates>
+				<coordinates>-113.38609500,37.13311462,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -20647,10 +20857,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Kananga Democratic Republic of the Congo Stake</name>
+			<name>Kananga Democratic Republic of the Congo Lukonga Stake</name>
 			<LookAt>
-				<longitude>22.43794000</longitude>
-				<latitude>-5.89674000</latitude>
+				<longitude>22.38720000</longitude>
+				<latitude>-5.86820000</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -20658,7 +20868,52 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>22.43794000,-5.89674000,0</coordinates>
+				<coordinates>22.38720000,-5.86820000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kananga Democratic Republic of the Congo Ndesha Stake</name>
+			<LookAt>
+				<longitude>22.38111100</longitude>
+				<latitude>-5.89049400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>22.38111100,-5.89049400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kananga Democratic Republic of the Congo Nganza Stake</name>
+			<LookAt>
+				<longitude>22.43485300</longitude>
+				<latitude>-5.93069700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>22.43485300,-5.93069700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kananga Democratic Republic of the Congo Stake</name>
+			<LookAt>
+				<longitude>22.45900700</longitude>
+				<latitude>-5.89482600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>22.45900700,-5.89482600,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -20709,8 +20964,8 @@
 		<Placemark>
 			<name>Kansas City Missouri Stake</name>
 			<LookAt>
-				<longitude>-94.28627700</longitude>
-				<latitude>39.00114100</latitude>
+				<longitude>-94.32667900</longitude>
+				<latitude>38.90265790</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -20718,7 +20973,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-94.28627700,39.00114100,0</coordinates>
+				<coordinates>-94.32667900,38.90265790,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -20769,8 +21024,8 @@
 		<Placemark>
 			<name>Katoka Democratic Republic of the Congo Stake</name>
 			<LookAt>
-				<longitude>22.37199900</longitude>
-				<latitude>-5.91353500</latitude>
+				<longitude>22.39079400</longitude>
+				<latitude>-5.91774500</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -20778,7 +21033,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>22.37199900,-5.91353500,0</coordinates>
+				<coordinates>22.39079400,-5.91774500,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -21277,6 +21532,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Kinshasa Democratic Republic of the Congo Kimbwala Stake</name>
+			<LookAt>
+				<longitude>15.20560700</longitude>
+				<latitude>-4.36538600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>15.20560700,-4.36538600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Kinshasa Democratic Republic of the Congo Limete Stake</name>
 			<LookAt>
 				<longitude>15.33057510</longitude>
@@ -21307,6 +21577,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Kinshasa Democratic Republic of the Congo Mapela Stake</name>
+			<LookAt>
+				<longitude>15.39607000</longitude>
+				<latitude>-4.38790830</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>15.39607000,-4.38790830,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Kinshasa Democratic Republic of the Congo Masina Stake</name>
 			<LookAt>
 				<longitude>15.37539400</longitude>
@@ -21334,21 +21619,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>15.47711180,-4.39083043,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Kinshasa Democratic Republic of the Congo Mokali Stake</name>
-			<LookAt>
-				<longitude>15.39729200</longitude>
-				<latitude>-4.39259700</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>15.39729200,-4.39259700,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -21424,6 +21694,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>15.22283000,-4.34833700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kinshasa Democratic Republic of the Congo Siforco Stake</name>
+			<LookAt>
+				<longitude>15.41019400</longitude>
+				<latitude>-4.40323300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>15.41019400,-4.40323300,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -21637,10 +21922,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Kolwezi Democratic Republic of the Congo Stake</name>
+			<name>Kolwezi Democratic Republic of the Congo Joli Site Stake</name>
 			<LookAt>
-				<longitude>25.46666700</longitude>
-				<latitude>-10.71666700</latitude>
+				<longitude>25.53315100</longitude>
+				<latitude>-10.77330600</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -21648,7 +21933,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>25.46666700,-10.71666700,0</coordinates>
+				<coordinates>25.53315100,-10.77330600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kolwezi Democratic Republic of the Congo Stake</name>
+			<LookAt>
+				<longitude>25.50293100</longitude>
+				<latitude>-10.71997400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>25.50293100,-10.71997400,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -22234,6 +22534,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-122.81636100,47.03171500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lae Papua New Guinea Stake</name>
+			<LookAt>
+				<longitude>147.00286300</longitude>
+				<latitude>-6.72701700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>147.00286300,-6.72701700,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -23587,6 +23902,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Lehi Utah Hardman Farms Stake</name>
+			<LookAt>
+				<longitude>-111.90082800</longitude>
+				<latitude>40.39571021</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.90082800,40.39571021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Lehi Utah Holbrook Farms Stake</name>
 			<LookAt>
 				<longitude>-111.90543500</longitude>
@@ -23619,8 +23949,8 @@
 		<Placemark>
 			<name>Lehi Utah Jordan River YSA Stake</name>
 			<LookAt>
-				<longitude>-111.86919000</longitude>
-				<latitude>40.36993829</latitude>
+				<longitude>-111.86832000</longitude>
+				<latitude>40.36990773</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -23628,7 +23958,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-111.86919000,40.36993829,0</coordinates>
+				<coordinates>-111.86832000,40.36990773,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -23689,6 +24019,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-111.83930300,40.42760600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lehi Utah North YSA Stake</name>
+			<LookAt>
+				<longitude>-111.86736330</longitude>
+				<latitude>40.36990454</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.86736330,40.36990454,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -23814,8 +24159,8 @@
 		<Placemark>
 			<name>Lehi Utah YSA Stake</name>
 			<LookAt>
-				<longitude>-111.85374600</longitude>
-				<latitude>40.42740437</latitude>
+				<longitude>-111.86772000</longitude>
+				<latitude>40.36925176</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -23823,7 +24168,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-111.85374600,40.42740437,0</coordinates>
+				<coordinates>-111.86772000,40.36925176,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -23947,10 +24292,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Lethbridge Alberta East Stake</name>
+			<name>Lethbridge Alberta Henderson Lake Stake</name>
 			<LookAt>
-				<longitude>-112.78080500</longitude>
-				<latitude>49.67685700</latitude>
+				<longitude>-112.78099000</longitude>
+				<latitude>49.67687998</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -23958,7 +24303,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-112.78080500,49.67685700,0</coordinates>
+				<coordinates>-112.78099000,49.67687998,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -23977,10 +24322,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Lethbridge Alberta Stake</name>
+			<name>Lethbridge Alberta South Stake</name>
 			<LookAt>
-				<longitude>-112.80243400</longitude>
-				<latitude>49.66797900</latitude>
+				<longitude>-112.80272300</longitude>
+				<latitude>49.66797350</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -23988,7 +24333,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-112.80243400,49.66797900,0</coordinates>
+				<coordinates>-112.80272300,49.66797350,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lethbridge Alberta West Stake</name>
+			<LookAt>
+				<longitude>-112.90442000</longitude>
+				<latitude>49.66971138</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-112.90442000,49.66971138,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -24114,8 +24474,8 @@
 		<Placemark>
 			<name>Liberty Missouri Stake</name>
 			<LookAt>
-				<longitude>-94.43896500</longitude>
-				<latitude>39.25852600</latitude>
+				<longitude>-94.43886780</longitude>
+				<latitude>39.25863584</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -24123,7 +24483,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-94.43896500,39.25852600,0</coordinates>
+				<coordinates>-94.43886780,39.25863584,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -24457,6 +24817,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Lima Peru La Victoria Stake</name>
+			<LookAt>
+				<longitude>-77.01078000</longitude>
+				<latitude>-12.07434191</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.01078000,-12.07434191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Lima Perú Las Flores Stake</name>
 			<LookAt>
 				<longitude>-77.01779300</longitude>
@@ -24514,21 +24889,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-77.10843900,-11.97954400,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Lima Perú Magdalena Stake</name>
-			<LookAt>
-				<longitude>-77.06118800</longitude>
-				<latitude>-12.06748000</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-77.06118800,-12.06748000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -24649,6 +25009,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-77.08340200,-11.92030100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lima Perú Pueblo Libre Stake</name>
+			<LookAt>
+				<longitude>-77.06118800</longitude>
+				<latitude>-12.06748000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.06118800,-12.06748000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -26602,7 +26977,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Makelekele Republic of Congo Stake</name>
+			<name>Makelekele Republic of the Congo Stake</name>
 			<LookAt>
 				<longitude>15.20878600</longitude>
 				<latitude>-4.26646000</latitude>
@@ -26664,8 +27039,8 @@
 		<Placemark>
 			<name>Malandji Democratic Republic of the Congo Stake</name>
 			<LookAt>
-				<longitude>22.27177400</longitude>
-				<latitude>-5.95407900</latitude>
+				<longitude>22.41760000</longitude>
+				<latitude>-5.89819500</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -26673,7 +27048,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>22.27177400,-5.95407900,0</coordinates>
+				<coordinates>22.41760000,-5.89819500,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -27547,6 +27922,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Matadi Democratic Republic of the Congo Stake</name>
+			<LookAt>
+				<longitude>13.46063120</longitude>
+				<latitude>-5.84442692</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>13.46063120,-5.84442692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Matagalpa Nicaragua Stake</name>
 			<LookAt>
 				<longitude>-85.91735800</longitude>
@@ -27844,6 +28234,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>27.70599800,-32.92770200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mechanicsville Virginia Stake</name>
+			<LookAt>
+				<longitude>-77.37438800</longitude>
+				<latitude>37.60703305</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.37438800,37.60703305,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -29587,6 +29992,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Midlothian Virginia Stake</name>
+			<LookAt>
+				<longitude>-77.61115100</longitude>
+				<latitude>37.42356200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.61115100,37.42356200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Midvale Utah Stake</name>
 			<LookAt>
 				<longitude>-111.89760800</longitude>
@@ -29779,6 +30199,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-112.92652500,38.21589396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minj Papua New Guinea Stake</name>
+			<LookAt>
+				<longitude>144.68381800</longitude>
+				<latitude>-5.88264500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>144.68381800,-5.88264500,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -30682,6 +31117,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Moses Lake Washington East Stake</name>
+			<LookAt>
+				<longitude>-119.27290000</longitude>
+				<latitude>47.10358603</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-119.27290000,47.10358603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Moses Lake Washington Stake</name>
 			<LookAt>
 				<longitude>-119.27546900</longitude>
@@ -30859,6 +31309,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>11.58018600,48.13912600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muñoz Philippines Stake</name>
+			<LookAt>
+				<longitude>120.90407900</longitude>
+				<latitude>15.71874220</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>120.90407900,15.71874220,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -32452,6 +32917,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Nuku'alofa Tonga Kolomotu'a Stake</name>
+			<LookAt>
+				<longitude>-175.20836100</longitude>
+				<latitude>-21.13121900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-175.20836100,-21.13121900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Nuku'alofa Tonga Liahona Stake</name>
 			<LookAt>
 				<longitude>-175.26995800</longitude>
@@ -32509,21 +32989,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-175.12111600,-21.18452000,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Nuku'alofa Tonga North Stake</name>
-			<LookAt>
-				<longitude>-175.20836100</longitude>
-				<latitude>-21.13121900</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-175.20836100,-21.13121900,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -33487,6 +33952,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Orem Utah City Center Stake</name>
+			<LookAt>
+				<longitude>-111.69450300</longitude>
+				<latitude>40.31057300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.69450300,40.31057300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Orem Utah Geneva Heights Stake</name>
 			<LookAt>
 				<longitude>-111.71677000</longitude>
@@ -33562,6 +34042,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Orem Utah Mountain View Stake (Spanish)</name>
+			<LookAt>
+				<longitude>-111.70451000</longitude>
+				<latitude>40.28689994</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.70451000,40.28689994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Orem Utah North Stake</name>
 			<LookAt>
 				<longitude>-111.69519200</longitude>
@@ -33619,21 +34114,6 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-111.70014400,40.29126600,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Orem Utah Sharon Park Stake</name>
-			<LookAt>
-				<longitude>-111.69450300</longitude>
-				<latitude>40.31057300</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-111.69450300,40.31057300,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -33789,8 +34269,8 @@
 		<Placemark>
 			<name>Orem Utah YSA 4th Stake</name>
 			<LookAt>
-				<longitude>-111.71351000</longitude>
-				<latitude>40.27949471</latitude>
+				<longitude>-111.71374300</longitude>
+				<latitude>40.27969677</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -33798,7 +34278,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-111.71351000,40.27949471,0</coordinates>
+				<coordinates>-111.71374300,40.27969677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orem Utah YSA 5th Stake</name>
+			<LookAt>
+				<longitude>-111.71321000</longitude>
+				<latitude>40.27916398</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.71321000,40.27916398,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -33832,10 +34327,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Orlando Florida South Stake</name>
+			<name>Orlando Florida Citrus Ridge Stake</name>
 			<LookAt>
-				<longitude>-81.50669500</longitude>
-				<latitude>28.50677400</latitude>
+				<longitude>-81.64739300</longitude>
+				<latitude>28.24413864</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -33843,7 +34338,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-81.50669500,28.50677400,0</coordinates>
+				<coordinates>-81.64739300,28.24413864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlando Florida South Stake</name>
+			<LookAt>
+				<longitude>-81.50671000</longitude>
+				<latitude>28.50678585</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-81.50671000,28.50678585,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -33862,21 +34372,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Orlando Florida West Stake</name>
-			<LookAt>
-				<longitude>-81.58722700</longitude>
-				<latitude>28.43876400</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-81.58722700,28.43876400,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Ormoc Philippines Stake</name>
 			<LookAt>
 				<longitude>124.60581100</longitude>
@@ -33889,6 +34384,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>124.60581100,11.00931700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oro Papua New Guinea Stake</name>
+			<LookAt>
+				<longitude>148.23289700</longitude>
+				<latitude>-8.76954800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>148.23289700,-8.76954800,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -34084,6 +34594,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-75.52857600,45.45288300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Overland Park Kansas Stake</name>
+			<LookAt>
+				<longitude>-94.68304361</longitude>
+				<latitude>38.99986084</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-94.68304361,38.99986084,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -34507,6 +35032,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Palmira Colombia Stake</name>
+			<LookAt>
+				<longitude>-76.30632800</longitude>
+				<latitude>3.54030800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-76.30632800,3.54030800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Palmyra New York Stake</name>
 			<LookAt>
 				<longitude>-77.23556300</longitude>
@@ -34534,6 +35074,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-118.37905300,33.76884900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panabo Philippines Stake</name>
+			<LookAt>
+				<longitude>125.68408400</longitude>
+				<latitude>7.30873000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>125.68408400,7.30873000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -36217,6 +36772,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Pocatello Idaho Highland South Stake</name>
+			<LookAt>
+				<longitude>-112.40892300</longitude>
+				<latitude>42.90282389</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-112.40892300,42.90282389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Pocatello Idaho Highland Stake</name>
 			<LookAt>
 				<longitude>-112.40947600</longitude>
@@ -36679,6 +37249,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-118.99898200,36.07223900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Portland Maine Stake</name>
+			<LookAt>
+				<longitude>-70.24855770</longitude>
+				<latitude>43.61937166</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-70.24855770,43.61937166,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -39817,36 +40402,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Richmond Virginia Chesterfield Stake</name>
-			<LookAt>
-				<longitude>-77.46089000</longitude>
-				<latitude>37.44586700</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-77.46089000,37.44586700,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Richmond Virginia Midlothian Stake</name>
-			<LookAt>
-				<longitude>-77.61115100</longitude>
-				<latitude>37.42356200</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-77.61115100,37.42356200,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Richmond Virginia Stake</name>
 			<LookAt>
 				<longitude>-77.53459270</longitude>
@@ -42442,21 +42997,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>San Fernando California Stake (Spanish)</name>
-			<LookAt>
-				<longitude>-118.47230000</longitude>
-				<latitude>34.21023400</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-118.47230000,34.21023400,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>San Fernando La Union Philippines Stake</name>
 			<LookAt>
 				<longitude>120.31970400</longitude>
@@ -43219,6 +43759,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-88.78542300,13.64121000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandhills North Carolina Stake</name>
+			<LookAt>
+				<longitude>-79.00603300</longitude>
+				<latitude>35.08271800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-79.00603300,35.08271800,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -45112,36 +45667,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>São Paulo Brazil Casa Grande Stake</name>
-			<LookAt>
-				<longitude>-46.71943000</longitude>
-				<latitude>-23.77119000</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-46.71943000,-23.77119000,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>São Paulo Brazil Cotia Stake</name>
-			<LookAt>
-				<longitude>-46.88105500</longitude>
-				<latitude>-23.59921800</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-46.88105500,-23.59921800,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>São Paulo Brazil Ferreira Stake</name>
 			<LookAt>
 				<longitude>-46.74416500</longitude>
@@ -45154,6 +45679,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-46.74416500,-23.60731700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Paulo Brazil Franco da Rocha Stake</name>
+			<LookAt>
+				<longitude>-46.75781200</longitude>
+				<latitude>-23.40573100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-46.75781200,-23.40573100,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -45262,21 +45802,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>São Paulo Brazil Jaraguá Stake</name>
-			<LookAt>
-				<longitude>-46.75781200</longitude>
-				<latitude>-23.40573100</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-46.75781200,-23.40573100,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>São Paulo Brazil Jardim da Saúde Stake</name>
 			<LookAt>
 				<longitude>-46.60062400</longitude>
@@ -45319,6 +45844,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-46.62814100,-23.48927000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Paulo Brazil Parelheiros Stake</name>
+			<LookAt>
+				<longitude>-46.71943000</longitude>
+				<latitude>-23.77119000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-46.71943000,-23.77119000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -46282,6 +46822,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Shoal Creek Missouri Stake</name>
+			<LookAt>
+				<longitude>-94.50077450</longitude>
+				<latitude>39.21909886</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-94.50077450,39.21909886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Show Low Arizona Stake</name>
 			<LookAt>
 				<longitude>-110.05600200</longitude>
@@ -46417,6 +46972,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Simpsonville South Carolina Stake</name>
+			<LookAt>
+				<longitude>-82.27929480</longitude>
+				<latitude>34.69861275</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-82.27929480,34.69861275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Singapore Stake</name>
 			<LookAt>
 				<longitude>103.83667400</longitude>
@@ -46429,6 +46999,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>103.83667400,1.31488000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siniloan Philippines Stake</name>
+			<LookAt>
+				<longitude>121.43908000</longitude>
+				<latitude>14.42446596</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>121.43908000,14.42446596,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -46564,6 +47149,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-122.09461600,47.99577000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Snowflake Arizona Pioneer Stake</name>
+			<LookAt>
+				<longitude>-110.08181000</longitude>
+				<latitude>34.49645855</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-110.08181000,34.49645855,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -47314,6 +47914,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-119.76317400,39.55698200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spartanburg South Carolina Stake</name>
+			<LookAt>
+				<longitude>-81.90188490</longitude>
+				<latitude>34.92693693</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-81.90188490,34.92693693,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -49357,10 +49972,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Tarawa Kiribati East Stake</name>
+			<name>Tarawa Kiribati Betio Stake</name>
 			<LookAt>
-				<longitude>173.11913800</longitude>
-				<latitude>1.36487200</latitude>
+				<longitude>172.93403400</longitude>
+				<latitude>1.35762400</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -49368,14 +49983,29 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>173.11913800,1.36487200,0</coordinates>
+				<coordinates>172.93403400,1.35762400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tarawa Kiribati East Stake</name>
+			<LookAt>
+				<longitude>173.13155100</longitude>
+				<latitude>1.36595900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>173.13155100,1.36595900,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Tarawa Kiribati West Stake</name>
 			<LookAt>
-				<longitude>172.91919700</longitude>
-				<latitude>1.35463500</latitude>
+				<longitude>173.01493400</longitude>
+				<latitude>1.33402100</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -49383,7 +50013,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>172.91919700,1.35463500,0</coordinates>
+				<coordinates>173.01493400,1.33402100,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -49417,10 +50047,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Tarlac Philippines Stake</name>
+			<name>Tarlac Philippines South Stake</name>
 			<LookAt>
-				<longitude>120.59441400</longitude>
-				<latitude>15.49497722</latitude>
+				<longitude>120.59956900</longitude>
+				<latitude>15.45938608</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -49428,7 +50058,22 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>120.59441400,15.49497722,0</coordinates>
+				<coordinates>120.59956900,15.45938608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tarlac Philippines Stake</name>
+			<LookAt>
+				<longitude>120.59442200</longitude>
+				<latitude>15.49500659</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>120.59442200,15.49500659,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -49834,6 +50479,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-111.92945700,33.41878600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Temple Texas Stake</name>
+			<LookAt>
+				<longitude>-97.38563300</longitude>
+				<latitude>31.10337000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-97.38563300,31.10337000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -51007,21 +51667,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Tubarão Brazil Stake</name>
-			<LookAt>
-				<longitude>-49.02935900</longitude>
-				<latitude>-28.47094500</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>-49.02935900,-28.47094500,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Tubod Philippines Stake</name>
 			<LookAt>
 				<longitude>125.56535920</longitude>
@@ -51772,21 +52417,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Upper Hutt New Zealand Stake</name>
-			<LookAt>
-				<longitude>175.08045800</longitude>
-				<latitude>-41.10839553</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_red-circle</styleUrl>
-			<Point>
-				<coordinates>175.08045800,-41.10839553,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Urdaneta Philippines Stake</name>
 			<LookAt>
 				<longitude>120.57299100</longitude>
@@ -52119,8 +52749,8 @@
 		<Placemark>
 			<name>Valparaíso Chile Stake</name>
 			<LookAt>
-				<longitude>-71.59080500</longitude>
-				<latitude>-33.03988800</latitude>
+				<longitude>-71.60349000</longitude>
+				<latitude>-33.05061415</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -52128,7 +52758,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-71.59080500,-33.03988800,0</coordinates>
+				<coordinates>-71.60349000,-33.05061415,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -52584,8 +53214,8 @@
 		<Placemark>
 			<name>Villa Alemana Chile West Stake</name>
 			<LookAt>
-				<longitude>-71.37386300</longitude>
-				<latitude>-33.05406100</latitude>
+				<longitude>-71.64406200</longitude>
+				<latitude>-33.03645391</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -52593,7 +53223,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-71.37386300,-33.05406100,0</coordinates>
+				<coordinates>-71.64406200,-33.03645391,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -52674,8 +53304,8 @@
 		<Placemark>
 			<name>Viña del Mar Chile Achupallas Stake</name>
 			<LookAt>
-				<longitude>-71.50973300</longitude>
-				<latitude>-32.99985000</latitude>
+				<longitude>-71.50843510</longitude>
+				<latitude>-33.00009263</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -52683,14 +53313,14 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-71.50973300,-32.99985000,0</coordinates>
+				<coordinates>-71.50843510,-33.00009263,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Viña del Mar Chile Stake</name>
 			<LookAt>
-				<longitude>-71.55153800</longitude>
-				<latitude>-33.02258600</latitude>
+				<longitude>-71.54571000</longitude>
+				<latitude>-33.02094958</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -52698,7 +53328,7 @@
 			</LookAt>
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
-				<coordinates>-71.55153800,-33.02258600,0</coordinates>
+				<coordinates>-71.54571000,-33.02094958,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -53212,7 +53842,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Wellington New Zealand Stake</name>
+			<name>Wellington and Hutt New Zealand Stake</name>
 			<LookAt>
 				<longitude>174.79155300</longitude>
 				<latitude>-41.30987073</latitude>
@@ -54097,6 +54727,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Winter Garden Florida Stake</name>
+			<LookAt>
+				<longitude>-81.64130400</longitude>
+				<latitude>28.50301910</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-81.64130400,28.50301910,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Woodbridge Virginia Stake</name>
 			<LookAt>
 				<longitude>-77.32461500</longitude>
@@ -54274,6 +54919,21 @@
 			<styleUrl>#msn_red-circle</styleUrl>
 			<Point>
 				<coordinates>-5.25765500,6.80786900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yaounde Cameroon Stake</name>
+			<LookAt>
+				<longitude>11.51529600</longitude>
+				<latitude>3.86622400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>11.51529600,3.86622400,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -54712,21 +55372,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Alto Hospicio Chile District</name>
-			<LookAt>
-				<longitude>-70.07462300</longitude>
-				<latitude>-20.26037700</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>-70.07462300,-20.26037700,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Andahuaylas Perú District</name>
 			<LookAt>
 				<longitude>-73.38257700</longitude>
@@ -54757,21 +55402,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Antsirabe Madagascar District</name>
-			<LookAt>
-				<longitude>47.03418700</longitude>
-				<latitude>-19.86231000</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>47.03418700,-19.86231000,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Aomori Japan District</name>
 			<LookAt>
 				<longitude>140.74736500</longitude>
@@ -54784,21 +55414,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>140.74736500,40.82207200,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Aparri Philippines District</name>
-			<LookAt>
-				<longitude>121.65038980</longitude>
-				<latitude>18.35464976</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>121.65038980,18.35464976,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -54844,6 +55459,51 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>123.60592440,9.88471323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arizona Central District (Correctional Facility)</name>
+			<LookAt>
+				<longitude>-111.32404102</longitude>
+				<latitude>33.04238582</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-111.32404102,33.04238582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arizona Northwest District (Correctional Facility)</name>
+			<LookAt>
+				<longitude>-112.13286691</longitude>
+				<latitude>33.43274958</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-112.13286691,33.43274958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arizona South District (Correctional Facility)</name>
+			<LookAt>
+				<longitude>-110.86244855</longitude>
+				<latitude>32.06916001</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-110.86244855,32.06916001,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -55027,6 +55687,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Bandundu Democratic Republic of the Congo District</name>
+			<LookAt>
+				<longitude>17.38180400</longitude>
+				<latitude>-3.31412600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>17.38180400,-3.31412600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Bangued Philippines District</name>
 			<LookAt>
 				<longitude>120.61745000</longitude>
@@ -55039,6 +55714,21 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>120.61745000,17.60192316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangui Central African Republic District</name>
+			<LookAt>
+				<longitude>18.56632798</longitude>
+				<latitude>4.38161519</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>18.56632798,4.38161519,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -55657,21 +56347,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Cañete Perú District</name>
-			<LookAt>
-				<longitude>-76.39412400</longitude>
-				<latitude>-13.08921100</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>-76.39412400,-13.08921100,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Cap-Haïtien Haiti District</name>
 			<LookAt>
 				<longitude>-72.20707000</longitude>
@@ -55714,6 +56389,21 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>-63.25000000,10.66666700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casanare Colombia District</name>
+			<LookAt>
+				<longitude>-72.39206030</longitude>
+				<latitude>5.34751957</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-72.39206030,5.34751957,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -55894,21 +56584,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>33.46337000,-19.11004500,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Chiquimula Guatemala South District</name>
-			<LookAt>
-				<longitude>-89.44442300</longitude>
-				<latitude>14.63602800</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>-89.44442300,14.63602800,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -56407,21 +57082,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Eagle Pass Texas District</name>
-			<LookAt>
-				<longitude>-100.92095000</longitude>
-				<latitude>29.39679300</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>-100.92095000,29.39679300,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>El Dorado México District</name>
 			<LookAt>
 				<longitude>-107.35841700</longitude>
@@ -56587,7 +57247,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Europe Central Area District</name>
+			<name>Europe Central Turkic and Persian-Speaking District</name>
 			<LookAt>
 				<longitude>29.02089998</longitude>
 				<latitude>41.07702973</latitude>
@@ -56944,21 +57604,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>-90.41605300,14.07509400,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Guimba Philippines District</name>
-			<LookAt>
-				<longitude>120.90407900</longitude>
-				<latitude>15.71874220</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>120.90407900,15.71874220,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -57637,6 +58282,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Kikwit Democratic Republic of the Congo District</name>
+			<LookAt>
+				<longitude>18.78383680</longitude>
+				<latitude>-5.07196642</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>18.78383680,-5.07196642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Kilungu Hills Kenya District</name>
 			<LookAt>
 				<longitude>37.42075300</longitude>
@@ -57699,8 +58359,8 @@
 		<Placemark>
 			<name>Kisangani Democratic Republic of the Congo District</name>
 			<LookAt>
-				<longitude>25.18733880</longitude>
-				<latitude>0.51175670</latitude>
+				<longitude>25.15959470</longitude>
+				<latitude>0.53155002</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -57708,7 +58368,7 @@
 			</LookAt>
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
-				<coordinates>25.18733880,0.51175670,0</coordinates>
+				<coordinates>25.15959470,0.53155002,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -57982,21 +58642,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Lae Papua New Guinea District</name>
-			<LookAt>
-				<longitude>147.00286300</longitude>
-				<latitude>-6.72701700</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>147.00286300,-6.72701700,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Lagarto Brazil District</name>
 			<LookAt>
 				<longitude>-37.67558800</longitude>
@@ -58204,6 +58849,21 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>13.50444010,-14.92413581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lubunga Democratic Republic of the Congo District</name>
+			<LookAt>
+				<longitude>25.19447720</longitude>
+				<latitude>0.49460096</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>25.19447720,0.49460096,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -58417,21 +59077,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Matadi Democratic Republic of the Congo District</name>
-			<LookAt>
-				<longitude>13.46063120</longitude>
-				<latitude>-5.84442692</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>13.46063120,-5.84442692,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Matías Romero México District</name>
 			<LookAt>
 				<longitude>-95.03690600</longitude>
@@ -58522,6 +59167,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Menongue Angola District</name>
+			<LookAt>
+				<longitude>17.68619600</longitude>
+				<latitude>-14.66039667</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>17.68619600,-14.66039667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Metan Argentina District</name>
 			<LookAt>
 				<longitude>-64.97213000</longitude>
@@ -58564,21 +59224,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>121.17081400,13.39944700,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Minj Papua New Guinea District</name>
-			<LookAt>
-				<longitude>144.68381800</longitude>
-				<latitude>-5.88264500</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>144.68381800,-5.88264500,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -58819,6 +59464,21 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>138.19424300,36.64855000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nakuru Kenya District</name>
+			<LookAt>
+				<longitude>36.07427100</longitude>
+				<latitude>-0.27125441</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>36.07427100,-0.27125441,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -59257,21 +59917,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Oro Papua New Guinea District</name>
-			<LookAt>
-				<longitude>148.23289700</longitude>
-				<latitude>-8.76954800</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>148.23289700,-8.76954800,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Oron Nigeria District</name>
 			<LookAt>
 				<longitude>8.22256600</longitude>
@@ -59374,36 +60019,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>-35.59348000,-8.67437200,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Palmira Colombia District</name>
-			<LookAt>
-				<longitude>-76.30632800</longitude>
-				<latitude>3.54030800</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>-76.30632800,3.54030800,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Panabo Philippines District</name>
-			<LookAt>
-				<longitude>125.68408400</longitude>
-				<latitude>7.30873000</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>125.68408400,7.30873000,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -60637,21 +61252,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Siniloan Philippines District</name>
-			<LookAt>
-				<longitude>121.43908000</longitude>
-				<latitude>14.42446596</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>121.43908000,14.42446596,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Sipalay Philippines District</name>
 			<LookAt>
 				<longitude>122.40148900</longitude>
@@ -60999,8 +61599,8 @@
 		<Placemark>
 			<name>Tarawa Kiribati North District</name>
 			<LookAt>
-				<longitude>173.00360800</longitude>
-				<latitude>1.51997000</latitude>
+				<longitude>173.03009300</longitude>
+				<latitude>1.48215100</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -61008,7 +61608,7 @@
 			</LookAt>
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
-				<coordinates>173.00360800,1.51997000,0</coordinates>
+				<coordinates>173.03009300,1.48215100,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -61069,6 +61669,21 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>-1.93947506,7.59053392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tete Mozambique District</name>
+			<LookAt>
+				<longitude>33.59435700</longitude>
+				<latitude>-16.16103342</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>33.59435700,-16.16103342,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -61147,10 +61762,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Três Rios Brazil District</name>
+			<name>Tshitenge Democratic Republic of the Congo District</name>
 			<LookAt>
-				<longitude>-43.21265300</longitude>
-				<latitude>-22.11728100</latitude>
+				<longitude>23.67133780</longitude>
+				<latitude>-6.14322026</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -61158,14 +61773,14 @@
 			</LookAt>
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
-				<coordinates>-43.21265300,-22.11728100,0</coordinates>
+				<coordinates>23.67133780,-6.14322026,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Tulua Colombia District</name>
+			<name>Tubarão Brazil District</name>
 			<LookAt>
-				<longitude>-76.20000000</longitude>
-				<latitude>4.08333300</latitude>
+				<longitude>-49.02935900</longitude>
+				<latitude>-28.47094500</latitude>
 				<altitude>0</altitude>
 				<range>300</range>
 				<tilt>0</tilt>
@@ -61173,7 +61788,7 @@
 			</LookAt>
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
-				<coordinates>-76.20000000,4.08333300,0</coordinates>
+				<coordinates>-49.02935900,-28.47094500,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -61582,6 +62197,21 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Wasatch Range Utah District (Correctional Facility)</name>
+			<LookAt>
+				<longitude>-111.95449361</longitude>
+				<latitude>40.74479956</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-111.95449361,40.74479956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Wasatch Shoreline Youth District (Correctional Facility - Youth)</name>
 			<LookAt>
 				<longitude>-111.79921537</longitude>
@@ -61654,21 +62284,6 @@
 			<styleUrl>#msn_blu-circle</styleUrl>
 			<Point>
 				<coordinates>131.47372700,34.17849600,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Yaounde Cameroon District</name>
-			<LookAt>
-				<longitude>11.51529600</longitude>
-				<latitude>3.86622400</latitude>
-				<altitude>0</altitude>
-				<range>300</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_blu-circle</styleUrl>
-			<Point>
-				<coordinates>11.51529600,3.86622400,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

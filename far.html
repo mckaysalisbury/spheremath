@@ -132,11 +132,11 @@
                 const nearestTemples = nearestAmong(stake, temples); // bigO(temples)
                 stake.distanceToNearestTemple = nearestTemples[0]?.distanceToTarget ?? Infinity;
                 stake.nearestTemples = nearestTemples.slice(0, 3);
+                // TODO: Find all stakes by distance for each stake.
+                // TODO: Find which stakes would be closer to this stake than their nearest temple.
+                // TODO: Sum the difference in that distance for all those stakes.
             });
-            console.log('Stakes with nearest temple data', stakes);
-            // TODO: Find all stakes by distance for each stake.
-            // TODO: Find which stakes would be closer to this stake than their nearest temple.
-            // TODO: Sum the difference in that distance for all those stakes.
+            // console.log('Stakes with nearest temple data', stakes);
 
             const sorted = stakes.sort((a, b) => {
                 const aDist = a.distanceToNearestTemple;
@@ -144,7 +144,9 @@
                 return bDist - aDist;
             });
 
-            console.log('Sorted', sorted);
+            // console.log('Sorted', sorted);
+            console.log("Stakes by distance to nearest temple", sorted);
+
             ListBoy.RenderTo(sorted.slice(0, 10).map(item => {
                 return {
                     name: item.name,
